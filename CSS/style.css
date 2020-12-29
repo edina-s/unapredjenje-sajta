@@ -1,0 +1,111 @@
+body {
+    background-color: rgba(243, 165, 178, 0.572);
+    font-family: 'Mitr', sans-serif;
+    width: 100%;
+    padding: 15px 0 0 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1em;
+    color: rgb(82, 19, 50);
+    text-shadow: 1px 1px rgba(243, 200, 214, 0.586);
+    font-weight: bold;
+}
+
+.omotac {
+    width: 95%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgba(177, 74, 122, 0.786);
+    width: 100%;
+    text-align: center;
+    padding: 7px 0;
+    border-radius: 1em;
+    font-size: 1.5em;
+}
+
+main {
+    width: 70%;
+    float: right;
+    margin-top: 10px;
+}
+
+aside {
+    background-color: rgba(177, 74, 122, 0.786);
+    width: 27%;
+    float: left;
+    border-radius: 1em;
+    margin-top: 10px;
+    text-overflow: none;
+    font-size: 1.1em;
+}
+
+nav {
+    margin: 0 auto;
+    width: 60%;
+    height: 95%;
+}
+
+nav ul {
+    list-style: none;
+    margin: 40px 0;
+    padding: 0;
+}
+
+nav ul li {
+    background-color: rgba(235, 147, 191, 0.352);
+    margin: 0 auto;
+    margin: 5px;
+    overflow: hidden;
+    text-align: center;
+    padding: 7px;
+    border-top: 2px solid rgba(68, 63, 63, 0.386);
+    border-left: 2px solid rgba(68, 63, 63, 0.386);
+    border-right: 2px solid rgba(68, 63, 63, 0.834);
+    border-bottom: 2px solid rgba(68, 63, 63, 0.834);
+}
+
+nav ul li a {
+    color: rgb(83, 19, 51);
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.pupin {
+    float: right;
+}
+
+footer {
+    text-align: center;
+    color: blanchedalmond;
+    padding: 0;
+    background-color: rgb(238, 156, 190);
+    clear: both;
+}
+
+.light {
+    background-color: cornsilk;
+}
+
+#naslov {
+    background-color: rgb(212, 129, 156);
+}
+
+li:hover {
+    background-color: rgba(243, 165, 178, 0.972);
+}
+
+h2 {
+    text-transform: uppercase;
+    background-color: rgb(187, 124, 150);
+    border-radius: 1em;
+    text-indent: 1.5em;
+    padding: 5px;
+}
+h3 {
+    
+    background-color: rgb(238, 156, 190);
+    text-indent: 2em;
+    border-radius: 1em;
+}
